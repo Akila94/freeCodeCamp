@@ -10,4 +10,10 @@ import java.lang.*;
 import java.io.*;
 ```
 
-These comprise functions which make an otherwise long and hard task easier to do.
+These comprise functions which make an otherwise long and hard task easier to do. 
+
+However when coding, it is a good practice to import the specific type of class instead of all classes.
+```java
+import java.lang.StringBuilder;
+import java.io.FileInputStream;
+```
