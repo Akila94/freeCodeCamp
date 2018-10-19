@@ -24,6 +24,7 @@ Java is trademarked and licensed by Oracle. Most of the following are un-officia
 * [Spring Official Guides](https://spring.io/guides)
 * [TutorialsPoint - Java](http://www.tutorialspoint.com/java/)
 * [Java for Small Teams](https://www.gitbook.com/book/ncrcoe/java-for-small-teams/details)
+* [Javatpoint](https://www.javatpoint.com/java-tutorial)
 
 ## Challenges
 
