@@ -2,7 +2,7 @@
 title: Garbage Collection
 ---
 # Garbage Collection in Java
-In languages like C/C++, it is the duty of the programmer to create and destroy objects. But if the programmer does not performs his duty, sufficient memory may not be available for the creation of a new object and the program may terminate causing **OutOfMemoryErrors**.
+In languages like C/C++, it is the duty of the programmer to create and destroy objects. But if the programmer does not perform his duty, sufficient memory may not be available for the creation of a new object and the program may terminate causing **OutOfMemoryErrors**.
 
 Java relieves the programmer from memory management task and itself reclaims the memory occupied by the objects which are no longer in use. Garbage Collection in java is carried out by a daemon thread called **Garbage Collector**. **JVM(Java Virtual Machine)** invokes it when there is lack of memory(heap) for new objects.
 
